@@ -1,0 +1,45 @@
+# Notes #
+Some sites handle certain videos differently and the plugin may still work for certain videos, see [BrokenSites](BrokenSites.md).
+Some sites frequently remove videos, so newer videos may still work.
+
+# List of Currently Working Sites #
+  * [5min](http://www.5min.com/)
+  * [Amazon](http://www.amazon.com/)
+  * [arte.tv](http://www.arte.tv/)
+  * [Bing](http://www.bing.com/)
+  * [CBS News](http://www.cbsnews.com/)
+  * [CNET TV](http://cnettv.cnet.com/)
+  * [Evisor](http://www.evisor.com/)
+  * [Filmschoolrejects](http://www.filmschoolrejects.com/)
+  * [Flickr](http://www.flickr.com/)
+  * [Gawker](http://www.gawker.com/)
+  * [IMA](http://www.ima.com/)
+  * [Joemonster](http://www.joemonster.com/)
+  * [KidsWB (Warner Brothers)](http://www.kidswb.com/)
+  * [Megavideo](http://www.megavideo.com/)
+  * [Metacafe ](http://www.metacafe.com/)
+  * [Movietv.us](http://www.movietv.us.com/)
+  * [msnbc](http://www.msnbc.com/)
+  * [Myvideo](http://www.myvideo.com/)
+  * [Nick](http://www.nick.com/)
+  * [PBS](http://www.pbs.com/)
+  * [Redtube](http://www.redtube.com/)
+  * [Sapo.pt](http://www.sapo.pt/)
+  * [Sevenload](http://www.sevenload.com/)
+  * [Stupidvideos](http://www.stupidvideos.com/)
+  * [SVTPlay](http://www.svtplay.com/)
+  * [TBS](http://www.tbs.com/)
+  * [Techcast](http://www.techcast.com/)
+  * [Tou.tv](http://tou.tv/)
+  * [Traileraddict](http://www.traileraddict.com/)
+  * [Tv3play (Tv6play,Tv8play)](http://www.tv3play.com/)
+  * [Tv4play](http://www.Tv4play.com/)
+  * [Tv.com (CBS)](http://www.tv.com.com/)
+  * [Videobb](http://www.videobb.com/)
+  * [Videojug](http://www.videojug.com/)
+  * [Videolectures](http://www.videolectures.com/)
+  * [Xhamster](http://www.xhamster.com/)
+  * [YouTube](http://www.youtube.com/)
+
+## Sites supported by plugins ##
+  * [Hulu](http://gitorious.org/get-flash-videos-plugins/pages/Hulu).
